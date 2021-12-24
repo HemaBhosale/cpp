@@ -1,3 +1,5 @@
+/*WAP to calculate area of circle,Triangle and square.*/
+
 #include<iostream>
 
 using namespace std;
